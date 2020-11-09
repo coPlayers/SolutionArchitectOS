@@ -1,4 +1,4 @@
-# Scrum Team Engine - Dev & Play Monetizer
+# Solution Architect OS - Cloud & Dev Monetizer
 
 collaboration engine / social monetization protocol - PoC
 
